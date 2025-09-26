@@ -8,7 +8,6 @@
 
   { "keys": ["ctrl+s"],           "command": "show_panel", "args": {"panel": "find", "reverse": false} },
   { "keys": ["ctrl+w"],           "command": "delete_to_mark" },
-  { "keys": ["alt+w"],            "command": "copy" },
   { "keys": ["ctrl+y"],           "command": "yank" },
   { "keys": ["ctrl+z"],           "command": "yank" },
   { "keys": ["ctrl+shift+-"],     "command": "undo" },
